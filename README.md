@@ -1,6 +1,6 @@
 # Voici demo
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://fomightez.github.io/voici-demotest2)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://fomightez.github.io/voici-demotest)
 
 [Voici](https://github.com/voila-dashboards/voici) deployed as a static site to GitHub Pages, for demo purposes.
 
@@ -8,5 +8,5 @@ It uses [jupyterlite-xeus-python](https://github.com/jupyterlite/xeus-python-ker
 
 ## ✨ Try it in your browser ✨
 
-https://fomightez.github.io/voici-demotest2
+https://fomightez.github.io/voici-demotest
 
