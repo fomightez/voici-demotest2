@@ -1,4 +1,5 @@
-Presently (May 2024), all the notebooks in '`content`' directory work in Voici rendering, **with the exception of `test_file_read.ipynb`**. (That one failing to render in the notebook was due to a known issue at the time for Voici, see [here](https://discourse.jupyter.org/t/bouton-voila-sur-jupyterlite/18505/11?u=fomightez), and there was a workaround for that demonstrated in `test_providing_inside_nb.ipynb`.)
+My newer test deployment is [here](https://github.com/fomightez/voici-demotestMay24).  
+Presently (May 2024), all the notebooks in '`content`' directory HERE work in the Voici rendering, **with the exception of `test_file_read.ipynb`**. (That one failing to render in the notebook was due to a known issue at the time for Voici, see [here](https://discourse.jupyter.org/t/bouton-voila-sur-jupyterlite/18505/11?u=fomightez), and there was a workaround for that demonstrated in `test_providing_inside_nb.ipynb`.)
 
 # Voici demo
 
